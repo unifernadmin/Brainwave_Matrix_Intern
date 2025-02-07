@@ -1,1 +1,1 @@
-# Brainwave_Matrix_Intern
+#This is repository of internship project for brainwave matrix solutions.
